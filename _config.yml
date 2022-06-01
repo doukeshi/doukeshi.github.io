@@ -1,6 +1,5 @@
 title: Doukeshi
 
 remote_theme: doukeshi/jekyll-theme
-theme: pure
 
 permalink: /posts/:year/:slug
